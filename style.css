@@ -1,0 +1,15 @@
+h1{
+    color: aqua;
+    font-size: 30px;
+    font-family: fantasy;
+}
+.body_background{
+    background-image: url(th.jpg);
+    background-position: center;
+    border-style:cover;
+}
+#mycanvas{
+    border-width: 10ps;
+    background-color: antiquewhite;
+    border-style: dotted;
+}
